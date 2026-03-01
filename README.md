@@ -1,5 +1,26 @@
 ## Hi there 👋
+I'm Harsh,
+☕ Java Developer
+🤖 AI Enthusiast
+🎯 Future Machine Learning Engineer
+ _____________________________________________________________________________________________________________________________________________________________________________________________________________________
+I’m currently focused on:
 
+Writing clean, structured Java code
+
+Strengthening Data Structures & Algorithms
+
+Exploring Machine Learning fundamentals
+
+Building real-world backend projects
+
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________
+🛠 Tech and tools
+
+Languages: Java, Python (learning)
+Backend: Spring Boot, REST APIs
+Database: MySQL
+Tools: Git, GitHub, IntelliJ
 <!--
 **Traveller-prog/Traveller-prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
