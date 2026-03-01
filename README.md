@@ -1,8 +1,10 @@
 ## Hi there 👋
 I'm Harsh,
 ☕ Java Developer
+
 🤖 AI Enthusiast
-🎯 Future Machine Learning Engineer
+
+🎯 Exploring AI & Machine Learning
  _____________________________________________________________________________________________________________________________________________________________________________________________________________________
 I’m currently focused on:
 
