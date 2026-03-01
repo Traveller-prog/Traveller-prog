@@ -18,7 +18,7 @@ Java Programmer ☕ | Exploring AI & Machine Learning 🤖| Passionate about pro
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________
-🎯I’m currently focused on:
+🎯I’m currently focused on:-
 
 Writing clean, structured Java code
 
@@ -29,7 +29,7 @@ Exploring Machine Learning fundamentals
 Building real-world backend projects
 
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________
-🛠 Tech and tools
+🛠 Tech and tools:-
 
 Languages: Java, Python (learning)
 
