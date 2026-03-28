@@ -1,5 +1,5 @@
 𝙸'𝚖 𝙷𝚊𝚛𝚜𝚑,
-# 💫 About Me:
+# About Me:
 Java Programmer ☕ | Exploring AI & Machine Learning 🤖| Passionate about problem-solving, algorithms, and building smart systems.
 
 ## 🌐 Socials:
